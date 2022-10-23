@@ -551,11 +551,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\MyPC\\Documents\\Projetos C#\\Programa3\\Programa3.csproj",
+      "projectUniqueName": "C:\\Users\\MyPC\\Documents\\Projetos C#\\Programa3\\Programa3.csproj",
       "projectName": "Programa3",
-      "projectPath": "c:\\Users\\MyPC\\Documents\\Projetos C#\\Programa3\\Programa3.csproj",
+      "projectPath": "C:\\Users\\MyPC\\Documents\\Projetos C#\\Programa3\\Programa3.csproj",
       "packagesPath": "C:\\Users\\MyPC\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\MyPC\\Documents\\Projetos C#\\Programa3\\obj\\",
+      "outputPath": "C:\\Users\\MyPC\\Documents\\Projetos C#\\Programa3\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\MyPC\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -617,7 +617,7 @@
       "code": "NU1701",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "Package 'EasyModbusTCP 5.6.0' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework 'net5.0'. This package may not be fully compatible with your project.",
+      "message": "O pacote 'EasyModbusTCP 5.6.0' foi restaurado usando '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' em vez da estrutura de destino do projeto 'net5.0'. Esse pacote pode não ser totalmente compatível com o seu projeto.",
       "libraryId": "EasyModbusTCP",
       "targetGraphs": [
         "net5.0"

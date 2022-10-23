@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\MyPC\\Documents\\Projetos C#\\Programa3\\Programa3.csproj": {}
+    "C:\\Users\\MyPC\\Documents\\Projetos C#\\Programa3\\Programa3.csproj": {}
   },
   "projects": {
-    "c:\\Users\\MyPC\\Documents\\Projetos C#\\Programa3\\Programa3.csproj": {
+    "C:\\Users\\MyPC\\Documents\\Projetos C#\\Programa3\\Programa3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\MyPC\\Documents\\Projetos C#\\Programa3\\Programa3.csproj",
+        "projectUniqueName": "C:\\Users\\MyPC\\Documents\\Projetos C#\\Programa3\\Programa3.csproj",
         "projectName": "Programa3",
-        "projectPath": "c:\\Users\\MyPC\\Documents\\Projetos C#\\Programa3\\Programa3.csproj",
+        "projectPath": "C:\\Users\\MyPC\\Documents\\Projetos C#\\Programa3\\Programa3.csproj",
         "packagesPath": "C:\\Users\\MyPC\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\MyPC\\Documents\\Projetos C#\\Programa3\\obj\\",
+        "outputPath": "C:\\Users\\MyPC\\Documents\\Projetos C#\\Programa3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\MyPC\\AppData\\Roaming\\NuGet\\NuGet.Config",
